@@ -17,8 +17,14 @@ como escolher estruturas JavaScript para construir seu site!
 
 Conteúdo Programático:
 Instalação do Visual Studio Code
+
 O que há em uma página da Web
+
 Módulo 1 – Configurar a estrutura do seu aplicativo Web
+
 Módulo 2 – Adicionar um HTML Básico ao seu aplicativo Web
+
 Módulo 3 – Aplicar estilos ao HTML com o CSS
+
 Módulo 4 – Adicionar interatividade com o JavaScript
+
