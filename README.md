@@ -1,30 +1,105 @@
-# site-simples
-HTML, CSS E JAVASCRIPT CURSO BÁSICO
+# 🌐 Site Simples
 
-Descrição
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-Crie um site simples usando HTML, CSS e JavaScript(Com botão)
+Projeto desenvolvido como parte do curso **"Crie um Site Simples usando HTML, CSS e JavaScript"** da **Fundação Bradesco**.
 
-Objetivos
-Neste curso, você terá as informações fundamentais para trabalhar com o desenvolvimento para a Web, 
-aprendendo a usar HTML, CSS e JavaScript para criar sites ou aplicativos da Web, que parecem e funcionam como aplicativos nativos, 
-mas que são executados em seu navegador de Internet.
-Você conhecerá os componentes básicos de um website e as ferramentas que poderá usar para iniciar o desenvolvimento Web para trabalhar
-digitalmente, de forma eficaz e segura.
-Se você estiver interessado em iniciar o desenvolvimento Web pode se deparar com uma variedade de opções disponíveis no mercado. 
-Então, os conhecimentos obtidos neste curso serão muito importantes para que você possa ter um contexto para tomar decisões sobre 
-como escolher estruturas JavaScript para construir seu site!
+## 📖 Sobre o projeto
 
-Conteúdo Programático:
-Instalação do Visual Studio Code
+Este projeto teve como objetivo aplicar os conceitos básicos de desenvolvimento web, utilizando HTML, CSS e JavaScript para criar uma página simples, organizada e interativa.
 
-O que há em uma página da Web
+Durante o desenvolvimento foram praticados conceitos como:
 
-Módulo 1 – Configurar a estrutura do seu aplicativo Web
+- Estruturação de páginas com HTML5;
+- Estilização utilizando CSS3;
+- Manipulação de elementos com JavaScript;
+- Organização de arquivos em um projeto web.
 
-Módulo 2 – Adicionar um HTML Básico ao seu aplicativo Web
+---
 
-Módulo 3 – Aplicar estilos ao HTML com o CSS
+## 🚀 Tecnologias utilizadas
 
-Módulo 4 – Adicionar interatividade com o JavaScript
+- HTML5
+- CSS3
+- JavaScript
 
+---
+
+## 📂 Estrutura do projeto
+
+```
+site-simples/
+│
+├── index.html
+├── style.css
+├── script.js
+└── imagens/
+```
+
+---
+
+## ▶️ Como executar o projeto
+
+1. Clone este repositório:
+
+```bash
+git clone https://github.com/alinesemela/site-simples.git
+```
+
+2. Acesse a pasta do projeto.
+
+3. Abra o arquivo `index.html` em seu navegador.
+
+---
+
+## 📸 Demonstração
+
+### Página inicial
+
+> Adicione aqui um print da tela do projeto.
+
+```markdown
+![Página Inicial](imagens/site.png)
+```
+
+Caso a imagem esteja em outra pasta, ajuste o caminho conforme necessário.
+
+---
+
+## 🎓 Aprendizados
+
+Com este projeto foi possível desenvolver habilidades em:
+
+- Criação de páginas web responsivas;
+- Organização da estrutura de arquivos;
+- Utilização de HTML, CSS e JavaScript em conjunto;
+- Versionamento de código utilizando Git;
+- Publicação de projetos no GitHub.
+
+---
+
+## 📚 Curso
+
+Projeto desenvolvido durante o curso:
+
+**Fundação Bradesco**
+
+**Crie um Site Simples usando HTML, CSS e JavaScript**
+
+---
+
+## 👩‍💻 Autora
+
+**Aline Semela**
+
+- GitHub: https://github.com/alinesemela
+- LinkedIn: *(adicione o link do seu LinkedIn, se desejar)*
+
+---
+
+## ⭐ Agradecimentos
+
+Agradeço à Fundação Bradesco por disponibilizar gratuitamente o curso, contribuindo para o desenvolvimento dos meus conhecimentos em desenvolvimento web.
