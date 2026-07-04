@@ -1,4 +1,4 @@
-# 🌐 Site Simples
+#  Site Simples
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -7,7 +7,7 @@
 
 Projeto desenvolvido como parte do curso **"Crie um Site Simples usando HTML, CSS e JavaScript"** da **Fundação Bradesco**.
 
-## 📖 Sobre o projeto
+##  Sobre o projeto
 
 Este projeto teve como objetivo aplicar os conceitos básicos de desenvolvimento web, utilizando HTML, CSS e JavaScript para criar uma página simples, organizada e interativa.
 
@@ -20,7 +20,7 @@ Durante o desenvolvimento foram praticados conceitos como:
 
 ---
 
-## 🚀 Tecnologias utilizadas
+##  Tecnologias utilizadas
 
 - HTML5
 - CSS3
@@ -28,7 +28,7 @@ Durante o desenvolvimento foram praticados conceitos como:
 
 ---
 
-## 📂 Estrutura do projeto
+##  Estrutura do projeto
 
 ```
 site-simples/
@@ -41,7 +41,7 @@ site-simples/
 
 ---
 
-## ▶️ Como executar o projeto
+##  Como executar o projeto
 
 1. Clone este repositório:
 
@@ -55,7 +55,7 @@ git clone https://github.com/alinesemela/site-simples.git
 
 ---
 
-## 📸 Demonstração
+##  Demonstração
 
 ### Página inicial
 
@@ -69,7 +69,7 @@ Caso a imagem esteja em outra pasta, ajuste o caminho conforme necessário.
 
 ---
 
-## 🎓 Aprendizados
+##  Aprendizados
 
 Com este projeto foi possível desenvolver habilidades em:
 
@@ -81,7 +81,7 @@ Com este projeto foi possível desenvolver habilidades em:
 
 ---
 
-## 📚 Curso
+##  Curso
 
 Projeto desenvolvido durante o curso:
 
@@ -91,7 +91,7 @@ Projeto desenvolvido durante o curso:
 
 ---
 
-## 👩‍💻 Autora
+##  Autora
 
 **Aline Semela**
 
@@ -100,6 +100,6 @@ Projeto desenvolvido durante o curso:
 
 ---
 
-## ⭐ Agradecimentos
+##  Agradecimentos
 
 Agradeço à Fundação Bradesco por disponibilizar gratuitamente o curso, contribuindo para o desenvolvimento dos meus conhecimentos em desenvolvimento web.
