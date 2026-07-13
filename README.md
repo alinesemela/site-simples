@@ -20,6 +20,14 @@ Durante o desenvolvimento foram praticados conceitos como:
 
 ---
 
+## Funcionalidades
+
+- Tema Claro
+- Tema Escuro
+- Alternância de tema através de JavaScript
+- Utilização de CSS Variables
+- Manipulação do DOM
+
 ##  Tecnologias utilizadas
 
 - HTML5
