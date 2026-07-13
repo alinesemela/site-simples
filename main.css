@@ -13,10 +13,6 @@ li {
 #msg {
     font-family: monospace;
 }
-.light {
-    color: #000;
-    background: #0f0;
-}
 :root {
     --green: #00ff00;
     --white: #ffff;
@@ -45,11 +41,18 @@ body {
     position: absolute;
     top: 20px;
     left: 250px;
-    height: 50px;
-    width: 50px;
-    border-radius: 50%;
+
+    padding: 12px 20px;
+    min-width: 140px;
+
     border: none;
+    border-radius: 6px;
+
+    cursor: pointer;
+
     color: var(--btnFontColor);
     background: var(--btnBg);
+
+    font-weight: bold;
 }
-.btn :focus {outline-style: none;}
+.btn:focus {outline-style: none;}
