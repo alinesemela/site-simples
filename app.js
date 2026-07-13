@@ -1,12 +1,16 @@
-'use strict'
+'use strict';
+
 const btn = document.querySelector('.btn');
-btn.addEventListener('click', function() {
+
+btn.addEventListener('click', () => {
+
     document.body.classList.toggle('dark-theme');
+    document.body.classList.toggle('light-theme');
 
     if (document.body.classList.contains('dark-theme')) {
-        this.textContent = "Light Theme";
+        btn.textContent = 'Light Theme';
     } else {
-        this.textContent = "Dark Theme";
+        btn.textContent = 'Dark Theme';
     }
-    console.log('current class name: ' + document.body.className);
+
 });
